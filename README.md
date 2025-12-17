@@ -29,8 +29,7 @@ O resultado foi uma imagem **hiper-realista**, com:
 
 A imagem final demonstra como as IAs Generativas já conseguem produzir conteúdos visuais praticamente indistinguíveis de registros reais.
 
-![Show do Iron Maiden no Allianz Parque](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f398c654-bee5-4aeb-9277-bc95aaa86d34" />
-)
+![Show do Iron Maiden no Allianz Parque](<img width="1024" height="1024" alt="image" src="[https://github.com/william-alexandre/lab-natty-or-not/blob/main/iron.jpg" />)
 
 ## 💭 Reflexão
 Criar algo “natty” com IA é cada vez mais desafiador. O nível de realismo alcançado mostra que o diferencial não está apenas na ferramenta, mas na **qualidade do prompt**, na clareza da ideia e na atenção aos detalhes.  
